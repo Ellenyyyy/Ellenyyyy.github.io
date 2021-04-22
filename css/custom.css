@@ -1,6 +1,6 @@
 <link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>@font-face {
-    font-family:'liuFont';
-    src:url('../liuFont.ttf');
+    font-family: 'liuFont';
+    src: url('../diy-font/liuFont.ttf');;
     font-display:swap
 }
 h1#site-title {
@@ -11,4 +11,7 @@ span#subtitle {
 }
 a#site-name {
     font-family:liuFont!important
+}
+body {
+    font-family: 'liuFont';
 }
